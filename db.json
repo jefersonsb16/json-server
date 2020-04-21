@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "listaImagenesSinFiltro": [
+    {
+      "id": 1,
+      "nombreImagen": "nombre.jpg",
+      "stringJSONOCR": ""
+    }
+  ],
+  "listaImagenesConfiltro": [
+    {
+      "id": 1,
+      "nombreImagen": "nombre.jpg",
+      "stringJSONOCR": "",
+      "base64String": ""
+    },
+    {
+      "nombreImagen": "nombre2.jpg",
+      "stringJSONOCR": "",
+      "base64String": "",
+      "id": 2
+    },
+    {
+      "nombreImagen": "nombre2.jpg",
+      "stringJSONOCR": "",
+      "base64String": "",
+      "id": 3
+    }
+  ]
+}
